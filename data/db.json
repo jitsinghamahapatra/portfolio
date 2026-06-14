@@ -1,0 +1,130 @@
+{
+  "portfolio": {
+    "name": "Jit Singha Mahapatra",
+    "title": "Hello,\nI'm Jit!",
+    "bio": "I am a creative Front-end Developer and UI Designer based in India with extensive experience in building responsive web applications. I approach problems in a rational way and seek the simplest, most functional solutions.",
+    "linkedin": "https://www.linkedin.com/in/jitsinghamahapatra/",
+    "contact": {
+      "location": "West Bengal, India",
+      "email": "jitsinghamahapatra2006@gmail.com",
+      "phone": "+91 9933****15"
+    },
+    "education": [
+      {
+        "id": 1,
+        "date": "2024 - Present",
+        "title": "B.Sc. Computer Science",
+        "subtitle": "P.R.M.S. Mahavidyalaya, Bankura"
+      },
+      {
+        "id": 2,
+        "date": "2022 - 2024",
+        "title": "HS In Science",
+        "subtitle": "Simlapal M.M. High School, Bankura"
+      }
+    ],
+    "experience": [
+      {
+        "id": 1,
+        "date": "2024 - Present",
+        "title": "UG Software Engineer",
+        "subtitle": "Web Developer",
+        "description": "Designed and developed scalable web solutions while improving performance and user experience across platforms."
+      },
+      {
+        "id": 2,
+        "date": "2021 - 2023",
+        "title": "Thumbnail Designer",
+        "subtitle": "Remote",
+        "description": "Designed high-converting YouTube thumbnails and social media graphics, focusing on strong visual hierarchy and audience engagement."
+      }
+    ],
+    "tags": [
+      "Creativity",
+      "Leadership",
+      "ProblemSolving",
+      "Agile"
+    ],
+    "activities": [
+      {
+        "id": 1,
+        "date": "2025",
+        "title": "Web Developer",
+        "subtitle": "Design Many web Pages"
+      },
+      {
+        "id": 2,
+        "date": "2022",
+        "title": "Content Creation",
+        "subtitle": "Create Contents in youtube"
+      }
+    ],
+    "skills": {
+      "software": [
+        "Ps",
+        "Ai",
+        "Canva",
+        "Blender",
+        "Affinity",
+        "Vs"
+      ],
+      "coding": "HTML • CSS • JS\nJAVA • Python • C/C++",
+      "pills": [
+        "UI/UX Design",
+        "Thumbnail Design",
+        "Visualization"
+      ]
+    },
+    "languages": [
+      {
+        "id": 1,
+        "name": "Bengali",
+        "level": "Native"
+      },
+      {
+        "id": 2,
+        "name": "English",
+        "level": "Fluent"
+      },
+      {
+        "id": 3,
+        "name": "Hindi",
+        "level": "Basic"
+      }
+    ],
+    "hobbies": [
+      {
+        "id": 1,
+        "icon": "📷",
+        "name": "Photography"
+      },
+      {
+        "id": 2,
+        "icon": "🧑‍💻",
+        "name": "Coding"
+      },
+      {
+        "id": 3,
+        "icon": "🎮",
+        "name": "Gaming"
+      },
+      {
+        "id": 4,
+        "icon": "✈️",
+        "name": "Travel"
+      }
+    ],
+    "resumeUrl": "/uploads/Jit_Singha_Mahapatra_Resume.pdf",
+    "avatarUrl": "/uploads/my_img.jpeg"
+  },
+  "messages": [
+    {
+      "id": "1781255332174",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "subject": "Test Inquiry",
+      "message": "Hello, this is a test message to verify if the contact form is working correctly.",
+      "date": "2026-06-12T09:08:52.174Z"
+    }
+  ]
+}
